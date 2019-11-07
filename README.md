@@ -1,4 +1,6 @@
 # hilo_model
+Master Thesis: Modelling building thermal systems to investigate energy and comfort dependent control strategies
+
 Model of HiLo's thermal systems in EMPA's NEST building. Master Thesis of a coupled simulation between TRNSYS, CONTAM and MATLAB.
 
 Abstract:
